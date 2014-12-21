@@ -1,0 +1,16 @@
+-- Logging started at Sun Mar 23 18:53:47 2014 --
+I: Application Information:
+   Application Author: n3049036
+   Application Name:   PRG [ User ID: 'n3049036' ] :: Snake.
+I: OpenGL info:
+   Vendor:   Mesa Project
+   Renderer: Software Rasterizer
+   Version:  2.1 Mesa 9.0-devel
+I: Software Rasterizer detected.
+I: Next state to become active: GameState
+I: Application activity state changed to: GameState
+I: Next state to become active: HighScoreState
+I: Application activity state changed to: HighScoreState
+I: Next state to become active: MainMenuState
+I: Application activity state changed to: MainMenuState
+-- Logging ended at Sun Mar 23 18:55:08 2014 --

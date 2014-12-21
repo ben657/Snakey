@@ -1,0 +1,9 @@
+-- Logging started at Tue Mar 25 02:50:26 2014 --
+I: Application Information:
+   Application Author: n3049036
+   Application Name:   PRG [ User ID: 'n3049036' ] :: Snake.
+I: OpenGL info:
+   Vendor:   NVIDIA Corporation
+   Renderer: GeForce GTX 650/PCIe/SSE2
+   Version:  4.4.0
+-- Logging ended at Tue Mar 25 02:50:28 2014 --
